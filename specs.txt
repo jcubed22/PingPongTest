@@ -1,5 +1,31 @@
 Ping-Pong with BDD:
 
-1.  Behavior: Ping-Pong will count up from 0 to a number provided by the user.
+1.  pingPong_number
+
+    Behavior:PingPong will return the input value for any integer.
+    Input: An integer.
+    Output: The same integer.
+
+2.  pingPong_three
+
+    Behavior:PingPong will replace multiples of 3 with "ping."
+    Input: An integer from an array (e.g. 6)
+    Output: "ping."
+
+3. pingPong_five
+
+    Behavior:PingPong will replace multiples of 5 with "pong."
+    Input: An integer from an array (e.g. 10)
+    Output: "pong."
+
+4.  pingPong_fifteen
+
+    Behavior: PingPong will replace multiples of 15 with "ping-pong."
+    Input: An integer from an array (e.g. 15)
+    Output: "ping-pong."
+
+5.  pingPong_count
+
+    Behavior: Ping-Pong will count up from 0 to a number provided by the user.
     Input: An integer (e.g. 19)
     Output: All integers from 0 to (whatever) in an array.
