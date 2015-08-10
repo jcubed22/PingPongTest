@@ -1,0 +1,5 @@
+Ping-Pong with BDD:
+
+1.  Behavior: Ping-Pong will count up from 0 to a number provided by the user.
+    Input: An integer (e.g. 19)
+    Output: All integers from 0 to (whatever) in an array.
